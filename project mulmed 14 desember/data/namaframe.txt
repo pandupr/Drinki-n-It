@@ -1,0 +1,10 @@
+halaman_menu
+halaman_daftar_menu
+halaman_all_about
+halaman_important_info
+halaman_profile
+
+menu_shopNow
+menu_allAbout
+menu_important
+menu_profile
